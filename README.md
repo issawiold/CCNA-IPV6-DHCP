@@ -10,7 +10,7 @@ fig#ipv6 unicast-rout
 
 fig#int g#/#
 
-if#ip address 2001::1/64
+if#ipv6 address 2001::1/64
 
 if#ex
 

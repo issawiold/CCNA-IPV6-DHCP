@@ -20,7 +20,7 @@ fig#ipv6 dhcp pool <name>
 
 dhcpv6#address pref 2001::2/64
 
-##Now the server is set assign it to the interface/port##
+## Now the server is set assign it to the interface/port
 
 fig#int g#/#
 
@@ -31,7 +31,7 @@ if# ipv6 dhcp server <name>  ( make sure the nme is correct it's case senstive a
 
 ---------------------
 
-##for troubleshooting
+## for troubleshooting
 
 ping <ipv6>
 
